@@ -1,6 +1,5 @@
 # Fizzbuzz Game: replace every number divisible by 3 with "Fizz". Replace every number divisible by 5 with "Buzz." Replace every number divisible by both 3 and 5 with "Fizzbuzz"
 
-#def Fizzbuz(play_until):
 def Fizzbuzz (play_until):
     i = 1
     while (i <= play_until):
